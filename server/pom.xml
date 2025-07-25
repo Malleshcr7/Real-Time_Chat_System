@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>java</groupId>
-	<artifactId>chit-chat</artifactId>
+	<artifactId>sent-chat</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>chitchat</name>
-	<description>Chat App</description>
+	<name>sent-chat</name>
+	<description>Sent Chat App</description>
 	<url/>
 	<licenses>
 		<license/>

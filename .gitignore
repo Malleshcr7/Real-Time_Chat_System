@@ -1,1 +1,32 @@
+# Ignore environment files
 .env
+
+# Node.js
+node_modules/
+dist/
+build/
+
+# Java/Maven
+server/target/
+server/build/
+
+# Editor directories and files
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+Thumbs.db
+
+# Log files
+*.log
+logs/
+
+# Other
+client/.env
+server/.env
